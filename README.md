@@ -41,5 +41,44 @@ Wireframing strips away visual design elements, allowing designers to focus sole
 
 ## Types of Wireframes
 
-- **Low-Fidelity Wireframes:** These are simple sketches or basic digital layouts that focus on the overall structure and functionality without any detailed design elements.
-- **High-Fidelity Wireframes:** These are more detailed and refined versions of wireframes, often closer to the final design, and include specific design elements like fonts, colors, and more defined layout components.
+Wireframes come in two main types: low-fidelity and high-fidelity. Each serves a different purpose in the design process and offers varying levels of detail.
+
+### Low-Fidelity Wireframes
+
+Low-fidelity wireframes are basic, simplified representations of a website or application's layout and functionality. These wireframes are often created early in the design process to focus on structure, content placement, and user flow without diving into the finer details of the design.
+
+#### Characteristics of Low-Fidelity Wireframes:
+- **Basic and Simple:** Usually drawn by hand or created with simple digital tools.
+- **Minimal Detail:** Focuses on layout, content placement, and structure rather than visual design (no colors, fonts, or images).
+- **Fast to Create:** Designed quickly to visualize the overall user experience.
+- **Used for Early Exploration:** They help explore different design concepts and functionality without getting bogged down by design decisions.
+
+#### When to Use Low-Fidelity Wireframes:
+- During the **initial brainstorming** or **conceptualization phase**.
+- To explore different **layout options** and user flows.
+- When **collaborating** with stakeholders to get feedback on structure and functionality.
+
+### High-Fidelity Wireframes
+
+High-fidelity wireframes are more detailed and polished than low-fidelity wireframes. They closely resemble the final design, including specific content, typography, and design elements.
+
+#### Characteristics of High-Fidelity Wireframes:
+- **Detailed Layouts:** More refined, with actual content, fonts, and placeholders.
+- **Closer to Final Design:** Includes design elements such as colors, typography, and spacing.
+- **Interactive Features:** Can include interactions or transitions, making it possible to simulate user behavior.
+- **Polished Look:** Typically created using design tools like Figma or Sketch to provide a clearer vision of the final product.
+
+#### When to Use High-Fidelity Wireframes:
+- When the overall **structure is decided**, and it’s time to refine the visual design.
+- In the **mid to later stages** of the design process when the layout, content, and interactions are being finalized.
+- For **user testing** or **client approval** to ensure alignment on the design and functionality before moving to development.
+
+---
+
+## What Type of Wireframe is Here?
+
+In this repository, the wireframes shared are examples of **low-fidelity wireframes**, which focus on the structure and layout of a website or application. They provide a clear, simple representation of the design without any intricate design details. These wireframes are ideal for brainstorming, concept validation, and early-stage feedback from stakeholders.
+
+---
+
+T
